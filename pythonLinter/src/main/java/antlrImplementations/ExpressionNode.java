@@ -1,0 +1,15 @@
+package antlrImplementations;
+
+public enum ExpressionNode{
+    TUPLE_NODE,
+    OR_TEST_NODE,
+    AND_TEST_NODE,
+    NOT_TEST_NODE,
+    COMPARISON_NODE,
+    BINARY_EXPRESSION_NODE,
+    ARITHEXPRESSION_NODE,
+    TERM_NODE,
+    FACTOR_NODE,
+    POWER_NODE,
+    ATOMEXPRESSION_NODE
+}

@@ -1,0 +1,40 @@
+boolean=2+2+2,2,2
+tul=boolean+1
+class Motor:
+    Treibstoff="Benzin"
+    Zylinder=4
+
+    def anlassen(self):
+        pass
+    
+    def stoppen(self):
+        pass
+
+class Fahrzeug:
+    motor=Motor()
+    Türen=4
+
+    def bewegen(self):
+        pass
+
+class BMW(Fahrzeug):
+    Farbe="Blau"
+
+
+def testen(test1):
+    pass
+
+auto=BMW()
+2=BMW()
+tupleTest=auto,auto,auto
+testTuple=2,2,2,2
+aaaa=tupleTest+testTuple
+test=2**auto.Türen+2+2
+auto.bewegen()
+auto.bewegen()
+autoFarbe=auto.Farbe
+farben=[autoFarbe, auto.motor.t.t]
+t=auto+boolean
+
+
+
