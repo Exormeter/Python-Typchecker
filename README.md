@@ -14,9 +14,9 @@ or she
 This is of course just a small linter and it only works with an outdated version of VSCode, so I wouldn't try to get this running.
 So here are three gif that show the Typechecker working:
 
+![](PreView/PreViewGif.gif)
 ![](PreView/PreView2.gif)
 ![](PreView/PreView3.gif)
-![](PreView/PreViewGif.gif)
 
 
 I used antlr4 to build the parsetree in combination with a python3 grammar, which I modifed to support "MakeShiftTypes",
